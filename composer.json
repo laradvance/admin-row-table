@@ -1,9 +1,9 @@
 {
-    "name": "ichynul/row-table",
+    "name": "laradvance/admin-row-table",
     "description": "laravel-admin extension row-table",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/ichynul/row-table",
+    "homepage": "https://github.com/laradvance/admin-row-table",
     "license": "MIT",
     "authors": [
         {
